@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 62aad5adc97193c4997727c923c30134
+timeCreated: 1520930902
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - LeftBullet: {instanceID: 0}
+  - RightBullet: {instanceID: 0}
+  - PlayerExplisionR: {instanceID: 0}
+  - PlayerExplisionL: {instanceID: 0}
+  - hppannel: {instanceID: 0}
+  - monster1: {fileID: 114560550278118900, guid: 7a67ac88541ff424080e932d031d2722,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
